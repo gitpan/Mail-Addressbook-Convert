@@ -1,46 +1,42 @@
-
+Convert.pm
+Convert/Ccmail.pm
+Convert/Csv.pm
+Convert/Eudora.pm
+Convert/Genr.pm
+Convert/Juno.pm
+Convert/Ldif.pm
+Convert/Mailrc.pm
+Convert/Pegasus.pm
+Convert/PersistentUtilities.pm
+Convert/Pine.pm
+Convert/Spry.pm
+Convert/Tsv.pm
+Convert/Utilities.pm
+CHANGES
+LICENSE
 MANIFEST
-  Makefile.PL
-  LICENSE
-  README
-  Changes
-  TODO
-  /Addrssbook/Convert/Ccmail.pm
-  /Addrssbook/Convert/Convert.pm
-  /Addrssbook/Convert/Csv.pm
-  /Addrssbook/Convert/Eudora.pm
-  /Addrssbook/Convert/Genr.pm
-  /Addrssbook/Convert/Juno.pm
-  /Addrssbook/Convert/Ldif.pm
-  /Addrssbook/Convert/Mailrc.pm
-  /Addrssbook/Convert/Pegasus.pm
-  /Addrssbook/Convert/PersistentUtilities.pm
-  /Addrssbook/Convert/Pine.pm
-  /Addrssbook/Convert/Spry.pm
-  /Addrssbook/Convert/Tsv.pm
-  /Addrssbook/Convert/Utilities.pm
-  /t/test/Simple.pm
-  /t/ccmailSample.txt
-  /t/csvSample.txt
-  /t/EudoraSampleFile.txt
-  /t/expectedO	utputFromCcMailTest.txt
-  /t/expectedOutputFromCsvTest.txt
-  /t/expectedOutputFromEudoraTest.txt
-  /t/expectedOutputFromLdifTest.txt
-  /t/expectedOutputFromMailrcTest.txt
-  /t/expectedOutputFromPegasusTest.txt
-  /t/expectedOutputFromPineTest.txt
-  /t/expectedOutputFromTsvTest.txt
-  /t/ldifSample.txt
-  /t/List4c76.pml
-  /t/List5029.pml
-  /t/mailrcSample.txt
-  /t/PegasusAddr1Sample.txt
-  /t/PegasusAddr2Sample.txt
-  /t/pineSample.txt
-  /t/testHarness.t
-  /t/tsvSample.txt
-  
-  
-  
-
+Makefile.PL
+README
+TODO
+t/EudoraSampleFile.txt
+t/LIST4C76.PML
+t/LIST5029.PML
+t/PegasusAddr1Sample.txt
+t/PegasusAddr2Sample.txt
+t/Test/Simple.pm
+t/ccmailSample.txt
+t/csvSample.txt
+t/expectedOutputFromCcMailTest.txt
+t/expectedOutputFromCsvTest.txt
+t/expectedOutputFromEudoraTest.txt
+t/expectedOutputFromLdifTest.txt
+t/expectedOutputFromMailrcTest.txt
+t/expectedOutputFromPegasusTest.txt
+t/expectedOutputFromPineTest.txt
+t/expectedOutputFromTsvTest.txt
+t/ldifSample.txt
+t/mailrcSample.txt
+t/pineSample.txt
+t/testHarness.t
+t/testHarness.t_old
+t/tsvSample.txt
